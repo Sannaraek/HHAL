@@ -1,0 +1,13 @@
+Generalization Accuracy:,
+"
+Client Best Model Round:",138
+"
+Client Accuracy:",0.5932
+"
+Client weighted f1:",0.5886
+"
+Client micro f1:",0.5932
+"
+Client macro f1:",0.5879
+"
+Client macro std f1:",0.1174

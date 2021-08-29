@@ -1,0 +1,13 @@
+Personalization Accuracy:,
+"
+BestModelRound:",138
+"
+accuracy:",0.9177
+"
+weighted f1:",0.9134
+"
+micro f1:",0.9177
+"
+macro f1:",0.9022
+"
+macro std f1:",0.1628

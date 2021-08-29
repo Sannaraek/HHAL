@@ -1,0 +1,11 @@
+Results on server model on ALL testsets,
+"
+Server Best Model Round",199
+"
+Server Accuracy:",0.7503
+"
+Server weighted f1:",0.7507
+"
+Server micro f1:",0.7503
+"
+Server macro f1:",0.7504
